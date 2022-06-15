@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Helvetica', 'Georgia', sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+a {
+    color: rgb(196, 115, 10);
+    font-family: 'Helvetica', 'Georgia', sans-serif;
+}
+
+
+img {
+    height: auto;
+    width: 200px;
+}
